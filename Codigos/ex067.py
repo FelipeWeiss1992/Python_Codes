@@ -1,0 +1,2 @@
+n = 'aeiou'
+print([n)
